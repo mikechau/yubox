@@ -1,6 +1,8 @@
-# React JS Template App
+# yubox
 
-This is a starter template for building your first [React](http://facebook.github.io/react/) application. Based on a [Gulp](http://gulpjs.com/) and [Webpack](http://webpack.github.io/) build system. If you look at the gulpfile, it implements some nifty features:
+Built with React Starter Template.
+
+[React](http://facebook.github.io/react/) application. Based on a [Gulp](http://gulpjs.com/) and [Webpack](http://webpack.github.io/) build system. If you look at the gulpfile, it implements some nifty features:
 
 * Uses gulpfile.js to trampoline to gulpfile.coffee, for you coffee drinkers out there.
 * `gulp dev` implements an http server and a live reload server.
